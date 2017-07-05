@@ -96,7 +96,8 @@ typedef NS_ENUM(NSInteger, iCarouselOption)
     iCarouselOptionSpacing,
     iCarouselOptionFadeMin,
     iCarouselOptionFadeMax,
-    iCarouselOptionFadeRange,
+    iCarouselOptionFadeRangePositive,
+    iCarouselOptionFadeRangeNegative,
     iCarouselOptionFadeMinAlpha
 };
 
